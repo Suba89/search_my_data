@@ -12,7 +12,7 @@
 
 <b>1.</b> Download the project.
 
-<b>2.</b> Need to Update the all dependencies.
+<b>2.</b> Need to Update the all dependencies(If required only, Already attached the vendor folder, so we can avoid this step).
 
 ```command
 composer upgrade
